@@ -1,0 +1,13 @@
+@relation testing
+
+@attribute Parents {usual}
+@attribute has_nurs {proper}
+@attribute form {complete}
+@attribute childern numeric
+@attribute housing {convenient}
+@attribute finance {inconv}
+@attribute Social {problematic}
+@attribute health {not_recom}
+
+@data
+usual,proper,complete,1,convenient,inconv,problematic,not_recom
